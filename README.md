@@ -1,3 +1,8 @@
+## 🧑‍💻 About Me
+#### I'm an 18 year old programmer from the United Kingdom. While primarily a games developer, I have a deep passion for all things online creation. I have experience in 3D animation, 2D UI/UX design, and Fullstack Roblox Development.
+#### Currently working on several Roblox Projects, both public and private, and also my own personal project, Quake Camera Shaker.
+---
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorsRus&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorsRus&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
