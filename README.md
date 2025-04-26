@@ -18,4 +18,4 @@ This year, I'm focused on:
 
 What advice would I give to other developers? **Stop thinking about it, and just do it.**
 ---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorsRus&show_icons=true&theme=tokyonight)
+
