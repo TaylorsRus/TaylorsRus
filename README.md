@@ -7,3 +7,4 @@ Knowledge is power.
 - Collection of lune scripts for fast-tracking workflows and spending less time on quick fixes for trivial problems
 - A base component library of generic components which are intended to be imported and then modified from there on out, *not* used like a package
 - A collision module with a sleek api for covering most usecases of collision, not intended to be efficient, intended to be easy
+- An OOP, imperative spring module, most solutions are declaritive and embedded in UI libs, not ideal for animating physical things
