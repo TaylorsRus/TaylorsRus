@@ -6,6 +6,7 @@ Knowledge is power.
 - Signal implementation, global signals table for global access to locally defined signals, akin to Bindables
     - local MySignal = Signal()
     - local Signals = Signal.Signals, leverage __call metamethod
+- Custom Camera, hate core scripts with a passion
 - Collection of lune scripts for fast-tracking workflows and spending less time on quick fixes for trivial problems
 - A base component library of generic components which are intended to be imported and then modified from there on out, *not* used like a package.
   - Will aim to dispoe of verbose or redundant props, ex; Combining 'AnchorPoint' and 'Position' into the string literal 'Alignment'
